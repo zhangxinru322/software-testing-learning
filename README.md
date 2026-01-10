@@ -5,7 +5,7 @@
 - `01-test-theory/xmind/`：存储测试思维导图
 - `test-case/`：测试用例
 - `notes/`：软件测试各模块学习笔记
-
+- `Linux/`：Linux学习笔记
 
 ## 学习重点
 1. 黑盒测试用例设计方法
