@@ -5,6 +5,7 @@
 - `01-test-theory/xmind/`：存储测试思维导图
 - `test-case/`：测试用例
 - `notes/`：软件测试各模块学习笔记
+- `Linux/`：Linux学习笔记
 
 
 ## 学习重点
@@ -16,4 +17,5 @@
 ## 更新日志
 - 2026.01.09：完成登录系统功能xmind分析和测试用例编写
 - 2026.01.09：完成注册功能的xmind分析和测试用例编写
+- 2026.01.10：学习Linux的cd，ls，mkdir，rm，mv，cp，cat，more，touch，重定向等命令及笔记整理
   
