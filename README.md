@@ -19,4 +19,5 @@
 - 2026.01.10：学习Linux的cd，ls，mkdir，rm，mv，cp，cat，more，touch，重定向等命令及笔记整理
 - 2026.01.11：学习python中的变量、数据类型、if判断语句
 - 2026.01.12：学习while循环
+- 2026.01.13：学习for循环，continue，break，range，整理python笔记
   
